@@ -114,7 +114,7 @@ hr {
 :root {
   --hty-mode: 'light';
   --hty-primary-color: #ff1493;
-  --hty-bg-color: #ff1493;
+  --hty-bg-color: #fff;
   --hty-text-color: #333;
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
